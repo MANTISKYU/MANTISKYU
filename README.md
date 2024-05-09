@@ -1,8 +1,8 @@
 ### Hi there 👋
+![![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f6480c05-de42-4c61-82fe-f04fda0adce0)]
 
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/08199108-8d67-4a26-afce-0850485b9f1f)]
 
 
 
