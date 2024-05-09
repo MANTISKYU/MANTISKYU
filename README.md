@@ -8,11 +8,6 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
         style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
-<a href="https://alpox.kr">
-    <img 
-        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
