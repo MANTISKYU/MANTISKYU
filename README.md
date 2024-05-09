@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/mantiskyu/">
     <img 
         src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
-        style="height : 50; margin-left : 20px; margin-right : 20px;"/>
+        style="height : 50px; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
