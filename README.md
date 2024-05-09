@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕하세요 개발계의 공룡이 될 이득규입니다:)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f6480c05-de42-4c61-82fe-f04fda0adce0)
 ![myprofile](https://github-readme-stats.vercel.app/api?username=MANTISKYU&theme=gold-green)
 
