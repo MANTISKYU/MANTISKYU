@@ -5,8 +5,8 @@
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f8854177-cb1c-4426-a709-79c8a6e5e150)
 <a href="https://www.instagram.com/mantiskyu/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
-        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
+        src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
+        style="height : 20; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
