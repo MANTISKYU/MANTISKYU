@@ -2,7 +2,8 @@
 
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/5ed9acb1-a41f-4d60-85cb-e8894b27a1f5)
+![![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/08199108-8d67-4a26-afce-0850485b9f1f)]
+
 
 
 Here are some ideas to get you started:
