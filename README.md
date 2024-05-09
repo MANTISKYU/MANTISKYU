@@ -4,7 +4,16 @@
 ![myprofile](https://github-readme-stats.vercel.app/api?username=MANTISKYU&theme=gold-green)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f8854177-cb1c-4426-a709-79c8a6e5e150)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/3b6dad6d-463b-4481-b2b6-f9e258217902)
-http://img.shields.io/badge/-운동스타그램-green?style=flat(?style=for-the-badge&logo=appveyor)&logo=![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/3b6dad6d-463b-4481-b2b6-f9e258217902)&link=https://www.instagram.com/mantiskyu/
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://alpox.kr">
+    <img 
+        src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
