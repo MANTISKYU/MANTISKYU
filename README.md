@@ -4,7 +4,7 @@
 ![myprofile](https://github-readme-stats.vercel.app/api?username=MANTISKYU&theme=gold-green)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f8854177-cb1c-4426-a709-79c8a6e5e150)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/3b6dad6d-463b-4481-b2b6-f9e258217902)
-<a href="https://instagram.com/alpox.dev">
+<a href="https://www.instagram.com/mantiskyu/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
