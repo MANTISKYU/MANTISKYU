@@ -6,7 +6,7 @@
 <a href="https://www.instagram.com/mantiskyu/">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <a href="https://alpox.kr">
     <img 
