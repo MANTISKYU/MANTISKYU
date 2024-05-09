@@ -3,8 +3,7 @@
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f6480c05-de42-4c61-82fe-f04fda0adce0)
 ![myprofile](https://github-readme-stats.vercel.app/api?username=MANTISKYU&theme=gold-green)
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f8854177-cb1c-4426-a709-79c8a6e5e150)
-<img src="https://img.shields.io/badge/인스타그램-green?style=flat-square&logo=![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/125708f4-c22c-4715-945c-cbd815c8089e)
-&logoColor=white"/>
+
 <!--
 **MANTISKYU/MANTISKYU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
