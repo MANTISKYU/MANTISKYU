@@ -5,7 +5,7 @@
 ![image](https://github.com/MANTISKYU/MANTISKYU/assets/169340449/f8854177-cb1c-4426-a709-79c8a6e5e150)
 <a href="https://www.instagram.com/mantiskyu/">
     <img 
-        src="http://img.shields.io/badge/-Instagram-green?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
+        src="http://img.shields.io/badge/-운동스타그램-green?style=flat&logo=Instagram&link=https://www.instagram.com/mantiskyu/"
         style="height : 50px; margin-left : 20px; margin-right : 20px;"/>
 </a>
 <!--
